@@ -76,11 +76,7 @@ This Enhanced Hand Gesture Recognition System represents a significant advanceme
 
 ## 🎥 Demo Video *<sub>데모 영상</sub>*
 
-> **📹 Upload your demo video here!**  
-> *<sub>여기에 데모 영상을 업로드하세요!</sub>*
-> 
-> *Create a short video showing the system recognizing different ASL letters*  
-> *<sub>시스템이 다양한 ASL 글자를 인식하는 모습을 보여주는 짧은 영상을 만드세요</sub>*
+
 
 *To add your demo video:*  
 *<sub>데모 영상을 추가하려면:</sub>*
