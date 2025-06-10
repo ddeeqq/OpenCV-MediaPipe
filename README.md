@@ -291,15 +291,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   *<sub>GitHub 이슈: 버그 신고 또는 기능 요청</sub>*
 - **Discussions**: [Join community discussions](https://github.com/ddeeqq/OpenCV-MediaPipe/discussions)  
   *<sub>토론: 커뮤니티 토론 참여</sub>*
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful! ⭐**  
-*<sub>도움이 되셨다면 이 저장소에 스타를 눌러주세요!</sub>*
-
-*Built with ❤️ for the ASL and computer vision communities*  
-*<sub>ASL 및 컴퓨터 비전 커뮤니티를 위해 ❤️로 제작되었습니다</sub>*
-
-</div>
